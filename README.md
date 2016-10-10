@@ -1,2 +1,2 @@
 # didattica
-Presentazion1 per i piccoli delle scuole primarie.
+Presentazioni per i piccoli delle scuole primarie.
